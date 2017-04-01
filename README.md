@@ -5,6 +5,7 @@ This course project/assignment is to read Human Activity Recognition Using Smart
 This dataset was provided by:
 
 `=======================================================================`
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
