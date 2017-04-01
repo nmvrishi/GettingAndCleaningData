@@ -1,8 +1,9 @@
-#Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
 This course project/assignment is to read Human Activity Recognition Using Smartphones Datasets, extract all mean and standard deviation data and create a tidy data set containing the average mean and standard deviation for each activity and each subject.
 
 This dataset was provided by:
+
 `=======================================================================`
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -11,9 +12,10 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 
 www.smartlab.ws
+
 `=======================================================================`
 
-The experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years with each person performing six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz were captured. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers were selected for generating the training data and 30% the test data. 
+The experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years with each person performing six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz were captured. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers were selected for generating the training data and 30% the test data.
 
 The data set contains the following files:
 
